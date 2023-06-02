@@ -1,0 +1,22 @@
+What are the built-in data types in Python?
+What is the difference between mutable and immutable data types?
+Explain the concept of type casting in Python.
+How can you check the type of a variable in Python?
+What is the difference between == and is operators in Python?
+Explain the difference between the 'and' and 'or' operators.
+How does the 'in' operator work in Python?
+What is operator precedence and how is it determined in Python?
+What is the difference between the '/' and '//' operators?
+Explain the usage of if-else statements in Python.
+What are nested if statements and how are they used?
+How can you use the 'elif' statement in Python?
+What is the purpose of the 'pass' statement in Python?
+What is the difference between a 'for' loop and a 'while' loop?
+How can you terminate a loop prematurely in Python?
+Explain the usage of the 'break' and 'continue' statements in loops.
+What is an infinite loop and how can it be avoided?
+How can you iterate over the elements of a list using a loop in Python?
+What is a function and why is it used in programming?
+What are parameters and arguments in a function?
+Explain the difference between return and print statements in functions.
+What is recursion and how is it used in functions?
